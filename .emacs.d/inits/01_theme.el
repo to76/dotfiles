@@ -1,1 +1,1 @@
-(load-theme 'tsdh-dark t)
+(load-theme 'zenburn t)
